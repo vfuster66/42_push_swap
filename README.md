@@ -1,7 +1,7 @@
 # push_swap
 Parce que Swap_push, c’est moins naturel
 
-![125](https://github.com/vfuster66/42-push_swap/assets/124174795/8a27af61-c8aa-42d6-bb37-9ee3151235ba)
+✅ Validé à 125% le 03 juillet 2023
 
 
 Ce projet vous demande de trier des données dans une pile, en utilisant un set
